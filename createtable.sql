@@ -1,0 +1,10 @@
+USE  DB1;#USE DATABASE DB1,THIS IS SINGLE LINE COMMENT
+CREATE TABLE PERSONS(
+	PERSONID int,
+    FIRSTNAME varchar(255),
+    LASTNAME varchar(255),
+    AGE int,
+    CITY varchar(255)
+    );
+
+
